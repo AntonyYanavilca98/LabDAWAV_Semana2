@@ -1,0 +1,9 @@
+C:\Cursos\6TO ciclo\DAWAV\Semana2\Semana2\bin\Debug\Semana2.exe.config
+C:\Cursos\6TO ciclo\DAWAV\Semana2\Semana2\bin\Debug\Semana2.exe
+C:\Cursos\6TO ciclo\DAWAV\Semana2\Semana2\bin\Debug\Semana2.pdb
+C:\Cursos\6TO ciclo\DAWAV\Semana2\Semana2\obj\Debug\Semana2.csprojAssemblyReference.cache
+C:\Cursos\6TO ciclo\DAWAV\Semana2\Semana2\obj\Debug\Semana2.Form1.resources
+C:\Cursos\6TO ciclo\DAWAV\Semana2\Semana2\obj\Debug\Semana2.Properties.Resources.resources
+C:\Cursos\6TO ciclo\DAWAV\Semana2\Semana2\obj\Debug\Semana2.csproj.GenerateResource.cache
+C:\Cursos\6TO ciclo\DAWAV\Semana2\Semana2\obj\Debug\Semana2.exe
+C:\Cursos\6TO ciclo\DAWAV\Semana2\Semana2\obj\Debug\Semana2.pdb
